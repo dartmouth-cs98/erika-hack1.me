@@ -1,0 +1,61 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  
+  header {
+    padding: 20px 0;
+  }
+  
+  header .row,
+  footer .row {
+    display: flex;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-weight: 700;
+    margin: 0;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  header p {
+    padding: 0 20px;
+    margin: 0;
+  }
+  
+  .jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('https://www.kiplinger.com/kipimages/pages/20722.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 500px;
+    text-shadow: 0.25px 0.25px 0.25px #000000;
+  }
+
+  .jumbotron h2 {
+    font-size: 60px;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  }
+  section .row {
+    margin-top: 10px;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+  }
+  section .row img {
+    margin:20px;
+    width: 40%;
+    height: 75%;
+  }
+    
+  section .col-sm-8 {
+    margin: 0 0 60px;
+  }
