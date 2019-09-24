@@ -9,6 +9,7 @@ Then followed first assignment in CS 52:
 http://cs52.me/assignments/sa/localdev/
 Domain created: http://erika-hack1.me
 
+Then created my own webpage with insider tips to Hanover restaurants from scratch. Incorporated aspects I learned from the tutorials such as Bootstrap, and inserting links and photos. Interviewed my friends for tips 
 
 ## What I learned 
 Basics of HTML and CSS 
