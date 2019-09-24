@@ -20,3 +20,5 @@ How to claim a domain and use github pages
 I think it would have been nice to have the context of the lectures when following the SA, but obviously that would not have been possible since I'm not taking the class 
 
 I also wish that codecademy did not give you as much supporting files for each exercise since it made the user feel as if they could accomplish more than they could realistically could without the supporting files 
+
+Whenever I build, the build is completed successfully, but I receive an error message about needing to update my DNS. 
