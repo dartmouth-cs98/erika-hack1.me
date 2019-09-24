@@ -12,9 +12,9 @@ Domain created: http://erika-hack1.me
 Then created my own webpage with insider tips to Hanover restaurants from scratch. Incorporated aspects I learned from the tutorials such as Bootstrap, and inserting links and photos. Asked my friends for ideas for the webpage and interviewed my friends for tips (small scale crowdsourcing of information)
 
 ## What I learned 
-Basics of HTML and CSS 
-Using Bootstrap 
-How to claim a domain and use github pages 
+* Basics of HTML and CSS.
+* Using Bootstrap.
+* How to claim a domain and use github pages 
 
 ## What didn't work 
 I think it would have been nice to have the context of the lectures when following the SA, but obviously that would not have been possible since I'm not taking the class 
